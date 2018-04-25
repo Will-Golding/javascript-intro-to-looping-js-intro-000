@@ -6,5 +6,5 @@ function forLoop(array){
     else {
       return "I am ${i} strange loop";
     }
-  }  
+  }
 }
